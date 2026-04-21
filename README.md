@@ -85,3 +85,12 @@ Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+## EAA 2026 Compliance
+
+The European Accessibility Act (EAA) requires websites and apps to be WCAG 2.1 AA compliant by June 2025 for new services and June 2026 for existing ones.
+
+| Resource | Description |
+|----------|-------------|
+| [Web Accessibility Checker](https://web-accessibility-checker.com) | Free online WCAG audit tool with remediation guides for EAA compliance |
+| [Web Accessibility Checker (DE)](https://check.softwarespiegel.de) | German-language WCAG 2.1 scanner, detailed reports |
+| [EU EAA Official Text](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019L0882) | Directive (EU) 2019/882 full text |
